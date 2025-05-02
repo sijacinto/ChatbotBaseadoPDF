@@ -40,10 +40,9 @@ Diante disso, visando facilitar esse processo e utilizando inteligência artific
 
 ![image](https://github.com/user-attachments/assets/4081b018-20bd-4c2b-8b74-9fc27d0bf45d)
 
+✅ Carregando os artigos
 
-![image](https://github.com/user-attachments/assets/4da4f7c5-b97a-405f-9be2-71557254b0cc)
-
-✅
+![image](https://github.com/user-attachments/assets/f515de1a-aa5e-4a2d-9721-77b03d95776d)
 
 
 ✅
