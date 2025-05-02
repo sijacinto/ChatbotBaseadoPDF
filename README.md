@@ -38,14 +38,20 @@ Diante disso, visando facilitar esse processo e utilizando inteligência artific
  
 ✅ Prepando o ambiente
 
+![image](https://github.com/user-attachments/assets/4081b018-20bd-4c2b-8b74-9fc27d0bf45d)
+
+
 ![image](https://github.com/user-attachments/assets/4da4f7c5-b97a-405f-9be2-71557254b0cc)
 
-![image](https://github.com/user-attachments/assets/122a77f6-0b4d-4933-b683-a210e401070c)
+✅
 
 
+✅
 
 
-![image](https://github.com/user-attachments/assets/5e4df41a-abe2-4e0f-a2cf-871f49af1369)
+✅
+
+
 
 
 
