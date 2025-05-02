@@ -26,3 +26,20 @@ Diante disso, visando facilitar esse processo e utilizando inteligência artific
 
 ✅ desenvolver um chat interativo em que seja possível realizar perguntas e obter respostas contextuais fundamentadas nos arquivos.
 
+## Desenvolvimento
+
+✅ Ativando recursos
+
+![image](https://github.com/user-attachments/assets/1a313ed7-046e-4804-9a88-f2f81e7abd55)
+
+✅ Visualizando o projeto criado
+
+![image](https://github.com/user-attachments/assets/7a5e5484-4989-45fa-8bba-58a6b13bd83e)
+ 
+✅ Prepando o ambiente
+
+![image](https://github.com/user-attachments/assets/5e4df41a-abe2-4e0f-a2cf-871f49af1369)
+
+
+
+
