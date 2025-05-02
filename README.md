@@ -5,7 +5,7 @@ Para isso, são utilizados conceitos de IA generativa, embeddings e buscas vetor
 Essa abordagem permite que seja elaborado um modelo personalizado de assistência virtual focado em um conjunto de informações proprietárias, sem depender unicamente do conhecimento geral de modelos pré-treinados.
 
 ## Cenário
-Pesquisador necessita revisar e correlacionar diversos artigos científicos relacionados à visão computacional. 
+Pesquisador necessita revisar e correlacionar diversos artigos científicos relacionados à classificação de dados. 
 Entretanto, à medida que acumula mais documentos, torna-se cada vez mais difícil extrair informações relevantes e conectar ideias entre diferentes textos.
 Diante disso, visando facilitar esse processo e utilizando inteligência artificial, implementa-se um sistema de busca inteligente capaz de:
 
